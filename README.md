@@ -61,18 +61,6 @@ Before university I did a voluntary social year (FSJ) at ASB's emergency call se
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlitisCoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlitisCoder&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlitisCoder&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 📜 Certificates
 
