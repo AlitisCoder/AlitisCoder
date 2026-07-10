@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Georgios+(Geo)+%F0%9F%91%8B;ai-student+%26+developer;Computer+Vision+%26+Responsible+AI" alt="Typing SVG" />
-</h1>
-
+<h1 align="center">   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Georgios+(Geo)+%F0%9F%91%8B;ai-student+%26+developer;Computer+Vision+%26+Responsible+AI" alt="Typing SVG" /> </h1> 
 <p align="center">
   <img src="https://alitiscoder.github.io/jake2.png" width="120" alt="Jake the Dog"/>
 </p>
@@ -17,6 +14,12 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio-alitiscoder.github.io-6C63FF?style=for-the-badge"/>
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlitisCoder/AlitisCoder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlitisCoder/AlitisCoder/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AlitisCoder/AlitisCoder/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -58,7 +61,18 @@ Before university I did a voluntary social year (FSJ) at ASB's emergency call se
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlitisCoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlitisCoder&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlitisCoder&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
 
 ### 📜 Certificates
 
@@ -83,3 +97,5 @@ Before university I did a voluntary social year (FSJ) at ASB's emergency call se
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<p align="center"><sub>georgios@portfolio ~ · built with Claude Code</sub></p>
