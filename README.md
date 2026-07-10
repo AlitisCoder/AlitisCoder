@@ -85,5 +85,3 @@ Before university I did a voluntary social year (FSJ) at ASB's emergency call se
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="center"><sub>georgios@portfolio ~ · built with Claude Code</sub></p>
