@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://alitiscoder.github.io/jake2.png" width="120" alt="Jake the Dog"/>
-</p>
-
-<p align="center">
   🎓 Applied Artificial Intelligence @ Hochschule Heilbronn<br>
   🤖 Bridging theory and practice — from ML fundamentals to AI ethics<br>
   📍 Heilbronn / Stuttgart area &nbsp;·&nbsp; 💡 Open for internships & working-student positions
