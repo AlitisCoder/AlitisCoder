@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  🎓 Applied Artificial Intelligence @ Hochschule Heilbronn<br>
-  🤖 Bridging theory and practice — from ML fundamentals to AI ethics<br>
-  📍 Heilbronn / Stuttgart area &nbsp;·&nbsp; 💡 Open for internships & working-student positions
+   Applied Artificial Intelligence @ Hochschule Heilbronn<br>
+   Bridging theory and practice — from ML fundamentals to AI ethics<br>
+  📍 Heilbronn / Stuttgart area &nbsp;·&nbsp; Open for internships & working-student positions
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ---
 
-### 👋 About me
+###  About me
 
 I'm learning not just to understand AI, but to actually **apply** it — from technical fundamentals and machine learning to the ethical questions around AI systems. Alongside my studies I build my own coding projects and keep my GitHub active, because hands-on work matters just as much to me as the theory in the lecture hall.
 
@@ -34,7 +34,7 @@ Before university I did a voluntary social year (FSJ) at ASB's emergency call se
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,29 +50,29 @@ Before university I did a voluntary social year (FSJ) at ASB's emergency call se
 
 ---
 
-### 🚀 Now
+###  Now
 
-- 🎨 **Learning:** TouchDesigner — real-time visuals & interactive installations at the intersection of AI, generative art and live performance
-- 🎵 **Next project:** Playlist Matcher — a web app that builds matching playlists from your Spotify Wrapped, swipe left/right to add or remove songs
-- 🧠 Deep-diving into ML fundamentals — building things from scratch with NumPy
+- **Learning:** TouchDesigner — real-time visuals & interactive installations at the intersection of AI, generative art and live performance
+- **Next project:** Playlist Matcher — a web app that builds matching playlists from your Spotify Wrapped, swipe left/right to add or remove songs
+- Deep-diving into ML fundamentals — building things from scratch with NumPy
 
 ---
 
-### 🌍 Languages
+### Languages
 
 `Greek — native` · `German — native` · `English — fluent` · `French — basics` · `Spanish — basics`
 
 ---
 
 
-### 📜 Certificates
+## Certificates
 
 [![Claude 101](https://img.shields.io/badge/Anthropic-Claude_101-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://alitiscoder.github.io/Claude101.pdf)
 [![Claude Code 101](https://img.shields.io/badge/Anthropic-Claude_Code_101-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://alitiscoder.github.io/ClaudeCode101.pdf)
 
 ---
 
-### 🌐 Connect
+###  Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/georgios-triantafillidis-95a028415">
